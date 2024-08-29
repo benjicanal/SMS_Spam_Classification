@@ -1,0 +1,15 @@
+Exemples de SMS Spam
+
+- "Congratulations! You've won a free gift card. Click here to claim your prize: [malicious link]"
+- "URGENT! Your account has been compromised. Reply with your password to secure it immediately."
+- "Get a loan with zero interest! No credit check required. Apply now at [malicious link]."
+- "You've been selected for a free cruise to the Bahamas! Call now to claim your spot: [phone number]."
+- "Limited time offer! Buy one get one free on all products. Shop now at [malicious link]."
+
+Exemples de SMS Non-Spam
+
+- "Hey, just wanted to confirm our lunch plans for tomorrow. See you at 1 PM?"
+- "Don't forget to bring the documents to the meeting. See you at 3 PM."
+- "Happy Birthday! Hope you have an amazing day filled with joy and laughter!"
+- "Your package has been shipped and will arrive by the end of the week. Track it here: [legitimate link]"
+- "Can you please send me the contact details of the plumber you recommended?"
