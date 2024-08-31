@@ -39,8 +39,8 @@ pydantic_core==2.20.1
 pydeck==0.9.1
 Pygments==2.18.0
 pyparsing
-PyQt5==5.15.10
-PyQt5-sip==12.9.0
+PyQt5
+PyQt5-sip
 python-dateutil==2.9.0
 pytz==2022.5
 referencing==0.35.1
