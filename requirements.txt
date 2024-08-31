@@ -24,9 +24,9 @@ markdown-it-py==3.0.0
 MarkupSafe==2.1.5
 matplotlib==3.5.1
 mdurl==0.1.2
-mkl-fft==1.4.0
-mkl-random==1.2.2
-mkl-service==2.4.0
+mkl-fft
+mkl-random
+mkl-service
 narwhals==1.6.0
 nltk==3.9.1
 numexpr==2.7.3
