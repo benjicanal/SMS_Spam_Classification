@@ -6,6 +6,8 @@ import nltk
 
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('punkt_tab')
+
 
 model = joblib.load('model.pkl')
 vectorizer = joblib.load('vectorizer.pkl')
