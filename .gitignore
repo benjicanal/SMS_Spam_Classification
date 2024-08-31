@@ -4,3 +4,4 @@ __pycache__/
 
 # Ignorer les checkpoints Jupyter Notebook
 .ipynb_checkpoint/
+.ipynb_checkpoints/
