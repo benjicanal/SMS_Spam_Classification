@@ -2,6 +2,10 @@ from pydantic import BaseModel
 from fastapi import FastAPI
 import joblib
 from utils import transform_text
+import nltk
+
+nltk.download('punkt')
+nltk.download('stopwords')
 
 model = joblib.load('model.pkl')
 vectorizer = joblib.load('vectorizer.pkl')
