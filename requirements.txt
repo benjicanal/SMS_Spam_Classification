@@ -8,7 +8,7 @@ certifi==2024.8.30
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
-contourpy==0.4.0
+contourpy
 cycler==0.11.0
 fastapi==0.112.2
 fonttools==5.1.0
