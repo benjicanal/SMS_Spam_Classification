@@ -1,8 +1,7 @@
 from pydantic import BaseModel
 from fastapi import FastAPI
 import joblib
-import numpy as np
-from app import transform_text
+from utils import transform_text
 
 model = joblib.load('model.pkl')
 vectorizer = joblib.load('vectorizer.pkl')
