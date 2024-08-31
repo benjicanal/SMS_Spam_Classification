@@ -69,4 +69,4 @@ unicodedata2==15.0.0
 urllib3==2.2.2
 watchdog==4.0.2
 wheel==0.43.0
-wordcloud==1.10.0
+wordcloud
