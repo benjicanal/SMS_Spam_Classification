@@ -1,4 +1,4 @@
-FROM python:3.12-slim
+FROM python:3.11-slim
 
 RUN apt-get update && apt-get install -y \
     build-essential \
@@ -19,8 +19,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 # On copie le reste des fichiers dans le répertoire de travail
 COPY . /app
 
-# On expose le port 8000
-EXPOSE 8000
+# On expose le port 8080
+EXPOSE 8080
 
 # Commande pour lancer l'application fastapi
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8080", "--reload"]
